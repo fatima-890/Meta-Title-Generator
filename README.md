@@ -2,17 +2,18 @@
 
 ## 📌 Description
 
-Meta Title Generator is a simple yet powerful Streamlit-based web application designed to help users create SEO-friendly meta titles quickly and efficiently. It allows users to input keywords or content ideas and instantly generates optimized titles that improve search engine visibility and click-through rates. Ideal for bloggers, marketers, and developers.
+Meta Title Generator is a Streamlit-based web app that creates SEO-friendly meta titles using keyword extraction and scoring techniques. Users can input keywords or content ideas to generate optimized titles that improve search visibility and click-through rates, making it useful for bloggers, marketers, and developers.
 
 ---
 
-## ✨ Features
+## 🔥 Features
 
-* Generate SEO-friendly meta titles
-* Fast and user-friendly interface
-* Built with Streamlit for simplicity
-* Keyword-based title suggestions
-* Lightweight and easy to run locally
+- ✅ AI-based keyword extraction  
+- ✅ SEO-optimized meta title generation  
+- ✅ Dynamic SEO scoring system (0–100)  
+- ✅ Long-tail keyword support  
+- ✅ Beginner-friendly Streamlit interface  
+- ✅ Fast and lightweight application  
 
 ---
 
@@ -22,8 +23,10 @@ Meta Title Generator is a simple yet powerful Streamlit-based web application de
 
 ## 🛠️ Tech Stack
 
-* Python
-* Streamlit
+- Python 🐍  
+- Streamlit 🎨  
+- NLP (Keyword Extraction)  
+- Custom SEO Scoring Algorithm  
 
 ---
 
